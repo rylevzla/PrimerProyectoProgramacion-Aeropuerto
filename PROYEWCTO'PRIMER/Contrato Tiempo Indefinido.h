@@ -18,7 +18,7 @@ public:
     virtual ~ContratoTiempoindefinido();
     
 
-
+    cout<<eskeereeeee
  
     cout << "mamon";
 
