@@ -39,6 +39,9 @@
     <ClInclude Include="Plaza.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="Fecha.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Contrato.cpp">
@@ -48,6 +51,9 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="Contrato Plazo Fijo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Fecha.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

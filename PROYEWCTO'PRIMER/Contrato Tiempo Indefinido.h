@@ -1,9 +1,9 @@
 
-#pragma once
+#include "Plaza.h"
 #include "Contrato.h"
 
 
-class ContratoTiempoindefinido : public Contrato {
+class ContratoTiempoIndefinido : public Contrato {
 private:
 
     Contrato* conPtr;
@@ -15,12 +15,9 @@ public:
 
 
 
-    virtual ~ContratoTiempoindefinido();
+    virtual ~ContratoTiempoIndefinido();
     
 
-    cout<<eskeereeeee
- 
-    cout << "mamon";
-
+   
 
 };

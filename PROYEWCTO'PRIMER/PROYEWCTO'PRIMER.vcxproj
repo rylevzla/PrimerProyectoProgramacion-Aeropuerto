@@ -26,12 +26,14 @@
     <ClInclude Include="Contrato Por Servicios Profesionales.h" />
     <ClInclude Include="Contrato Tiempo Indefinido.h" />
     <ClInclude Include="Contrato.h" />
+    <ClInclude Include="Fecha.h" />
     <ClInclude Include="Plaza.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Contrato Plazo Fijo.cpp" />
     <ClCompile Include="Contrato Por Servicios Profesionales.cpp" />
     <ClCompile Include="Contrato.cpp" />
+    <ClCompile Include="Fecha.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
