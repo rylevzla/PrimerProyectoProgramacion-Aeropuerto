@@ -2,6 +2,7 @@
 #pragma once
 #include "Contrato.h"
 
+
 class ContratoTiempoindefinido : public Contrato {
 private:
 
@@ -10,8 +11,9 @@ private:
 
 public:
 
-    ContratoTiempoindefinido(int cod, string descripcion, double salario,
-        );
+    ContratoTiempoindefinido(int cod, string descripcion, double salario);
+
+
 
     virtual ~ContratoTiempoindefinido();
     cout << "hola";
@@ -22,7 +24,7 @@ public:
 
 
  
-
+    cout << "mamon";
 
 
 };
