@@ -16,6 +16,7 @@ public:
     virtual ~ContratoTiempoindefinido();
     cout << "hola";
     cout << "holahola";
+    couwdowdkdwkswkws
 
 
 
