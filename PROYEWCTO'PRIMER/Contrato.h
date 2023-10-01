@@ -14,10 +14,8 @@ public:
 
 	Contrato(int codigo, string descripcion, double salar);
 
-
 	virtual ~Contrato();
 	
-
 	int getCodigo();
 	string getDescripcion();
 	double getSalario();

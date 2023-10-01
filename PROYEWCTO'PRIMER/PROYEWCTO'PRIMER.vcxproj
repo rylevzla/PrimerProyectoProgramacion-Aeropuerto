@@ -24,7 +24,7 @@
     <ClInclude Include="ClaseServicioAvionMilitar.h" />
     <ClInclude Include="Contrato Plazo Fijo.h" />
     <ClInclude Include="Contrato Por Servicios Profesionales.h" />
-    <ClInclude Include="Contrato Tiempo Indefinido.h" />
+    <ClInclude Include="ContratoTiempoIndefinido.h" />
     <ClInclude Include="Contrato.h" />
     <ClInclude Include="Fecha.h" />
     <ClInclude Include="Plaza.h" />
@@ -33,7 +33,9 @@
     <ClCompile Include="Contrato Plazo Fijo.cpp" />
     <ClCompile Include="Contrato Por Servicios Profesionales.cpp" />
     <ClCompile Include="Contrato.cpp" />
+    <ClCompile Include="ContratoTiempoIndefinido.cpp" />
     <ClCompile Include="Fecha.cpp" />
+    <ClCompile Include="Plaza.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

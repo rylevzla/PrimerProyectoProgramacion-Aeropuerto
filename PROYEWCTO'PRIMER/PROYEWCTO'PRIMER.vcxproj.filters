@@ -33,7 +33,7 @@
     <ClInclude Include="Contrato Plazo Fijo.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Contrato Tiempo Indefinido.h">
+    <ClInclude Include="ContratoTiempoIndefinido.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Plaza.h">
@@ -54,6 +54,12 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="Fecha.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Plaza.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ContratoTiempoIndefinido.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
